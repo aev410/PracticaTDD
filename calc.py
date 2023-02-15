@@ -3,7 +3,7 @@ class Calc:
     b = 0
     def __init__(Self,a,b):
         Self.a = a
-        #Self.b = b
+        Self.b = b
     
     def suma(Self):
         return Self.a+Self.b
